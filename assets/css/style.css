@@ -116,3 +116,10 @@ footer i {
     font-size: 1.2rem;
     color: #fff;
 }
+
+#contact {
+    border-top: 4px solid #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-right: -20px; 
+}
