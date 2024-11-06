@@ -25,7 +25,7 @@ header {
     margin-right: 0.5rem;
     border-radius: 50%;
   }
-
+  
   .logo-container h1 {
     font-size: 1.5rem;
     font-weight: bold;
@@ -33,7 +33,7 @@ header {
     margin: 0;
   }
 
-  nav {
+nav {
     display: flex;
     flex-direction: row;
 }
@@ -64,6 +64,14 @@ nav a:first-child {
     }
 }
 
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
 h1,
 h2 {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
@@ -87,18 +95,15 @@ section.larger-text {
     color: #070607; 
   }
 
-  section {
+section {
     padding: 1rem 2rem;
     max-width: 600px;
     margin: 0 auto;
 }
 
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
-    font-size: 0.9rem;
+.container {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 footer {
