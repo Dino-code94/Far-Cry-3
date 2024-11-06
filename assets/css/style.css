@@ -37,3 +37,12 @@ header {
     display: flex;
     flex-direction: row;
 }
+
+nav a {
+    color: #a49cec;
+    margin-left: 1rem;
+}
+
+nav a:first-child {
+    margin-right: auto;
+}
