@@ -47,10 +47,25 @@ nav a:first-child {
     margin-right: auto;
 }
 
-@media screen and (max-width: 480px) {
-    header {
-        padding: 0.5rem;
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#gallery figure {
+    margin: 0.5rem;
+}
+
+#gallery img {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 320px) {
+    .gallery-image {
+        width: 80%; 
     }
+}
 
     nav {
         flex-direction: row;
@@ -62,7 +77,7 @@ nav a:first-child {
     nav a {
         margin-left: 0.5rem;
     }
-}
+
 
 footer {
     background-color: #333;
@@ -124,11 +139,10 @@ footer i {
 
 #contact {
     border-top: 4px solid #333;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 30px;
-    margin-right: -20px; 
-}
+    box-shadow: 0 px 3px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: -2px; 
+    font-size: 1.2rem;
 
-#contact {
-    font-size: 1.1rem;
 }
