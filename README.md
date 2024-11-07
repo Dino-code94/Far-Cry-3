@@ -107,5 +107,16 @@ I recruited a variety of people to assist in testing the website, family and fri
 
   - All the photos were taken from the [Google Images](https://www.google.com/search?sca_esv=9c429154c95b1c4b&rlz=1C1VDKB_enAT1101AT1101&q=far+cry+3+logo&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_TJ4YMS4eRay1mUcjRHkZxg8Vy0p2Xq9PcZNNq1Ew9zQooLZH5gQS3wVxeld5ohRXutwtU5CU2X36_uLH1pIUk5kgTFJ72LHrHs1dTrQZP2bShAIpXPbBXJuSHMpD67_7PI_IrPeKYP6OPe9Ff2p8rktfex&sa=X&ved=2ahUKEwifjZzErsmJAxWu1gIHHVAuApIQtKgLegQIEhAB&biw=1920&bih=945&dpr=1)
 
+## Deployment
+
+- The site was deployed to GitHub pages as follows:
+
+ - In the GitHub repository, navigate to the Settings tab
+ - Open the "Pages" page in the sidebar
+ - From the source section drop-down menu, select the Main Branch
+ - Once the Main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here:
+
 
 
