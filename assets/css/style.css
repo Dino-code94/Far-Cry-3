@@ -1,3 +1,8 @@
+/*  Google Font imports */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@300&display=swap');
+
+/* Set general body styles */
 body {
     font-family: Nunito, sans-serif;
     margin: 0;
@@ -5,7 +10,7 @@ body {
     background-color: #f4ecd4;
     color: #444;
 }
-
+/* Header styles, sticky position, dark background, flexbox layout */
 header {
     position: sticky;
     top: 0;
@@ -15,7 +20,7 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-
+/* Logo container, flexbox layout, and logo margin */
 .logo-container {
     display: flex;
     align-items: center;
@@ -25,19 +30,19 @@ header {
     margin-right: 0.5rem;
     border-radius: 50%;
 }
-
+/* Logo text styles, white color, no margin, and bold font weight */
 .logo-container h1 {
     font-size: 1.5rem;
     font-weight: bold;
     color: #fff;
     margin: 0;
 }
-
+/* Navigation styles, flexbox layout with row direction */
 nav {
     display: flex;
     flex-direction: row;
 }
-
+/* Navigation link styles, margin, and spacing between links */
 nav a {
     color: #a49cec;
     margin-left: 1rem;
@@ -47,34 +52,34 @@ nav a:first-child {
     margin-right: auto;
 }
 
-
+/* Gallery section styles, flexbox layout with wrap and centered content */
 #gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
-
+/* Gallery figure styles, margin around figures */
 #gallery figure {
     margin: 0.5rem;
 }
-
+/* Gallery image styles, max width 100% for responsiveness */
 #gallery img {
     max-width: 100%;
 }
-
+/* Media query for smaller screens (up to 320px), adjusting gallery image width */
 @media screen and (max-width: 320px) {
     .gallery-image {
         width: 80%;
     }
 }
-
+/* Navigation styles for larger screens, flexbox layout with row direction and justified content */
 nav {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     margin-left: 0.5rem;
 }
-
+/* Navigation link styles for larger screens, margin between links */
 nav a {
     margin-left: 0.5rem;
 }
