@@ -93,5 +93,19 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 I recruited a variety of people to assist in testing the website, family and friends.
 
+### Content and Code
+
+| Source | Location | Notes |
+| --- | --- | --- |
+| [W3C](https://validator.w3.org/) | All pages | Validation |
+| [W3 Jigsaw](https://jigsaw.w3.org/css-validator/) | All pages | Validation |
+| [YouTube](https://www.youtube.com/) | Main page | a source to get an idea of how to lay out the page |
+| [Stack Overflow](https://stackoverflow.com/) | Research | additional html and css research |
+| [Wikipedia](https://en.wikipedia.org/wiki/Far_Cry_3) | Research | Plot, missions, side missions |
+
+### Media 
+
+  - All the photos were taken from the [Google Images](https://www.google.com/search?sca_esv=9c429154c95b1c4b&rlz=1C1VDKB_enAT1101AT1101&q=far+cry+3+logo&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_TJ4YMS4eRay1mUcjRHkZxg8Vy0p2Xq9PcZNNq1Ew9zQooLZH5gQS3wVxeld5ohRXutwtU5CU2X36_uLH1pIUk5kgTFJ72LHrHs1dTrQZP2bShAIpXPbBXJuSHMpD67_7PI_IrPeKYP6OPe9Ff2p8rktfex&sa=X&ved=2ahUKEwifjZzErsmJAxWu1gIHHVAuApIQtKgLegQIEhAB&biw=1920&bih=945&dpr=1)
+
 
 
