@@ -116,7 +116,7 @@ I recruited a variety of people to assist in testing the website, family and fri
  - From the source section drop-down menu, select the Main Branch
  - Once the Main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here:
+The live link can be found here: https://dino-code94.github.io/Far-Cry-3/
 
 
 
