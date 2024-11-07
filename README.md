@@ -70,4 +70,13 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org/) to v
 | :---: | :---: | :---: |
 | Index | ![screenshot](assets/documentation/ValidationHTML.png) | No errors or warnings to show. |
 
+### CSS
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) to validate all of my CSS files.
+
+| Report | Screenshot |
+| :---: | :---: |
+| style.css | ![screenshot](assets/documentation/CSSJigSaw.png) |
+
+
 
