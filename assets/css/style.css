@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4ecd4;
-    color: #444;
+    color: #000000;
 }
 /* Header styles, sticky position, dark background, flexbox layout */
 header {
@@ -153,8 +153,4 @@ footer i {
 .darker-text {
     color: #222;
     font-size: 1.3em; 
-}
-/* This CSS rule targets elements with the 'fa-rotate-by' class */
-.fa-rotate-by {
-    transform: rotate(45deg);
 }
