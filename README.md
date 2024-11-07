@@ -53,8 +53,21 @@ Using the "Am I Responsive" website, here is the example of the site showig resp
 | **Navigation** | This section will allow the user to easily navigate the site. | ![screenshot](assets/documentation/Navigation.png) |
 | **Plot** | This section will intruduce users with the game story | ![screenshot](assets/documentation/Plot.png) |
 | **Gameplay-features** | This section will introduce users with open world and features such as skills,crafting,stelth,hunting etc. | ![screenshot](assets/documentation/gameplay-features.png) |
-| **Gallery** | Gallery section contain in game photoa and some main characters photos | ![screenshot](assets/documentation/Gallery.png) |
+| **Gallery** | Gallery section contain in game photos and some main characters photos | ![screenshot](assets/documentation/Gallery.png) |
 | **Missions** | This section will introduce user with all types of missions in the game | ![screenshot](assets/documentation/Missions.png) |
-| **Contact us** | This section allow user to get in touch with the community| ![screenshot]() |
+| **Contact us** | This section allow user to get in touch with the community| ![Contact Us](https://github.com/user-attachments/assets/392b951b-caa2-4869-8d1d-a95a6798a6b6) |
 | **Footer** | The footer contains a link to various social media groups | ![screenshot](assets/documentation/Footer.png) |
+
+## Testing
+
+## Code Validation
+
+### HTML
+
+I have used the recommended [HTML W3C Validator](https://validator.w3.org/) to validate all of my HTML files.
+
+| Page | Screenshot | Notes |
+| :---: | :---: | :---: |
+| Index | ![screenshot](assets/documentation/ValidationHTML.png) | No errors or warnings to show. |
+
 
