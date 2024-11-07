@@ -84,7 +84,7 @@ nav a {
     margin-left: 0.5rem;
 }
 
-
+/* Footer styles, dark background, centered text, and padding */
 footer {
     background-color: #333;
     color: #fff;
@@ -92,57 +92,57 @@ footer {
     text-align: center;
     font-size: 0.9rem;
 }
-
+/* Heading styles, text shadow, and margin */
 h1,
 h2 {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
     margin-bottom: 1rem;
 }
-
+/* Larger text section styles, increased font size */
 section.larger-text {
     font-size: 1.2rem;
 }
-
+/* Larger text heading styles, increased font size */
 section.larger-text h2 {
     font-size: 2.0rem;
 }
-
+/* Larger text paragraph styles, increased font size */
 section.larger-text p {
     font-size: 1.9rem;
 }
-
+/* Larger text heading and paragraph color */
 section.larger-text h2,
 section.larger-text p {
     color: #070607;
 }
-
+/* Section styles, padding, max-width, and centering */
 section {
     padding: 1rem 2rem;
     max-width: 600px;
     margin: 0 auto;
 }
-
+/* Container styles, maximum width, and auto margins for centering */
 .container {
     max-width: 800px;
     margin: 0 auto;
 }
-
+/* Footer styles, flexbox layout with justify-content and align-items, padding */
 footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
 }
-
+/* Footer link styles, margin around links */
 footer a {
     margin: 0 1rem;
 }
-
+/* Footer icon styles, increased font size and white color */
 footer i {
     font-size: 1.2rem;
     color: #fff;
 }
-
+/* Contact section styles, border, box shadow, padding, margins, and increased font size */
 #contact {
     border-top: 4px solid #333;
     box-shadow: 0 px 3px rgba(0, 0, 0, 0.1);
