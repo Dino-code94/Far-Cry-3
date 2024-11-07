@@ -12,3 +12,11 @@ Using the "Am I Responsive" website, here is the example of the site showig resp
 | Index / Main |
 | :---: | 
 | ![screenshot](assets/documentation/Responsivnes.png) | 
+
+## UX
+ ### The Far Cry 3 website focuses on delivering a seamless user experience with the following features:
+ - Easy Navigation: The navigation bar allows users to browse different sections effortlessly.
+ - Mobile-Friendly: The website's responsive design ensures optimal viewing on all devices.
+ - Consistent Design: A unified color scheme and typography create a visually appealing experience.
+ - Accessible Content: The website is designed to be user-friendly and accessible to all users.
+ - Engaging Gallery: Image gallery provides an immersive experience for users.
