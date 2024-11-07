@@ -29,7 +29,7 @@ Using the "Am I Responsive" website, here is the example of the site showig resp
     - `#f4ecd4` - A light beige color used as the background for the entire `body`
     - `#333` A dark gray color used as the background for the `header` and `footer`
 - Text colors:
-    - `#444` A dark gray color used as the default text color for the `body`
+    - `#000000` A black color used as the default text color for the `body`
     - `#fff` White color used for the text in the `header` and `footer`
     - `#070607` A dark gray color used for the text in sections with the `larger-text` class
     - `#222` A dark gray color suggested for the `darker-text` class
