@@ -145,11 +145,12 @@ footer i {
 /* Contact section styles, border, box shadow, padding, margins, and increased font size */
 #contact {
     border-top: 4px solid #333;
-    box-shadow: 0 px 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 3px rgb(0, 0, 0, 0.1);
     padding: 10px;
     margin-top: 100px;
     margin-left: -2px;
     font-size: 1.2rem;
+    
 
 }
 /* Class darker-text, span, color dark and font-size */
