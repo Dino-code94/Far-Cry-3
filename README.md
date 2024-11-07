@@ -37,3 +37,9 @@ Using the "Am I Responsive" website, here is the example of the site showig resp
     - `#a49cec` A light purple color used for the links in the navigation.
 - Additionally, some elements have been styled with `text-shadow` to give them a subtle depth effect.
 
+### Typography
+
+- I used the Google Font called 'Nunito, sans-serif' for my Far Cry 3 site.
+
+   - [Nunito](https://fonts.google.com/specimen/Nunito+Sans)
+
