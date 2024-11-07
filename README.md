@@ -9,7 +9,7 @@
 
 Using the "Am I Responsive" website, here is the example of the site showig responsivity.
 
-| Index / Main |
+| Navigation / Welcome / Story / Contact / Gallery |
 | :---: | 
 | ![screenshot](assets/documentation/Responsivnes.png) | 
 
@@ -20,3 +20,20 @@ Using the "Am I Responsive" website, here is the example of the site showig resp
  - Consistent Design: A unified color scheme and typography create a visually appealing experience.
  - Accessible Content: The website is designed to be user-friendly and accessible to all users.
  - Engaging Gallery: Image gallery provides an immersive experience for users.
+
+### Colour Scheme
+
+- The colours used are as follows:-
+
+- Background colors:
+    - `#f4ecd4` - A light beige color used as the background for the entire `body`
+    - `#333` A dark gray color used as the background for the `header` and `footer`
+- Text colors:
+    - `#444` A dark gray color used as the default text color for the `body`
+    - `#fff` White color used for the text in the `header` and `footer`
+    - `#070607` A dark gray color used for the text in sections with the `larger-text` class
+    - `#222` A dark gray color suggested for the `darker-text` class
+- Link colors:
+    - `#a49cec` A light purple color used for the links in the navigation.
+- Additionally, some elements have been styled with `text-shadow` to give them a subtle depth effect.
+
