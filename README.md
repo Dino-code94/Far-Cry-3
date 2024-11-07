@@ -58,6 +58,17 @@ Using the "Am I Responsive" website, here is the example of the site showig resp
 | **Contact us** | This section allow user to get in touch with the community| ![Contact Us](https://github.com/user-attachments/assets/392b951b-caa2-4869-8d1d-a95a6798a6b6) |
 | **Footer** | The footer contains a link to various social media groups | ![screenshot](assets/documentation/Footer.png) |
 
+## Tools & Technologies Used
+
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+- [Google Fonts](https://fonts.google.com/) used to search a suitable font.
+- [Font Awesome](https://fontawesome.com/) used to add the footer icons.
+
+
 ## Testing
 
 ## Code Validation
@@ -77,6 +88,10 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | Report | Screenshot |
 | :---: | :---: |
 | style.css | ![screenshot](assets/documentation/CSSJigSaw.png) |
+
+## User Stories
+
+I recruited a variety of people to assist in testing the website, family and friends.
 
 
 
