@@ -108,7 +108,7 @@ section.larger-text h2 {
 }
 /* Larger text paragraph styles, increased font size */
 section.larger-text p {
-    font-size: 1.9rem;
+    font-size: 2.0rem;
 }
 /* Larger text heading and paragraph color */
 section.larger-text h2,
@@ -151,4 +151,9 @@ footer i {
     margin-left: -2px;
     font-size: 1.2rem;
 
+}
+
+.darker-text {
+    color: #222;
+    font-size: 1.3em; 
 }
